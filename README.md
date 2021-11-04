@@ -11,3 +11,17 @@ The third category, in contrast to the second, has the highest income and purcha
 
 
 It's worth mentioning that the second group has the largest client base, with around half of all customers falling into this category. The size of the other two groups is similar.
+
+
+# Shap Analysis
+
+Advertisment is not working onthe people ,perhaps defining a target audience could help.The more defined your target audience is, the better your marketing strategy will be as you’ll be able to create all of the brand marketing content, messaging, and ads with them in mind. 
+
+Perfectly tailor content within each campaign to appeal to the emotions and interests of the target audience 
+
+Understand the language used by the target audience, including the phrases and terms that might resonate with them and offer them deals / schemes accordingly
+
+Position their messaging in a way that connects with the audience’s problems, desires, and motivations
+
+Perform audience segmentation ,Know where the target audience spends their time (be it online or in the physical world) so they can place their messaging in the most effective locations
+
